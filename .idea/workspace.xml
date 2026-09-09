@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c7290b2-6ed1-4999-8f30-f6e86427e7f0" name="Changes" comment="Initial commit&#10;- finished stories&#10;-functional styling&#10;-no scripts" />
+    <list default="true" id="7c7290b2-6ed1-4999-8f30-f6e86427e7f0" name="Changes" comment="deploy fix ( remove json)">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788900997082</updated>
-      <workItem from="1788900998166" duration="11312000" />
+      <workItem from="1788900998166" duration="12258000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;- finished stories&#10;-functional styling&#10;-no scripts">
       <option name="closed" value="true" />
@@ -92,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788993220008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deploy fix ( remove json)">
+      <option name="closed" value="true" />
+      <created>1788993975849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788993975849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit&#10;- finished stories&#10;-functional styling&#10;-no scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;- finished stories&#10;-functional styling&#10;-no scripts" />
+    <MESSAGE value="deploy fix ( remove json)" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy fix ( remove json)" />
   </component>
 </project>
