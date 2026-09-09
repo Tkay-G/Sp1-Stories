@@ -1,0 +1,64 @@
+body {
+    background-color: sandybrown;
+    height: 100%;
+    margin: 5px;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+p{
+    font-size: 28px;
+}
+
+.stories {
+    display: grid;
+
+    /* Two columns */
+    grid-template-columns: 1fr 1fr;
+
+    /* Space between the cards */
+    gap: 20px;
+
+    /* Prevent the grid from becoming ridiculously wide */
+    max-width: 1000px;
+
+    /* Center the grid */
+    margin: 0 auto;
+
+    padding: 20px;
+}
+
+.story-card {
+    font-size: 24px;
+
+    background-color: wheat;
+
+    padding: 25px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+
+    transition: transform 0.2s;
+}
+
+/* Small screens / phones */
+
+@media (max-width: 600px) {
+
+    .stories {
+        /* Change from 2 columns to 1 */
+        grid-template-columns: 1fr;
+
+        padding: 15px;
+    }
+
+}
+
+footer{
+    margin-top: auto;
+    position: fixed;
+}
