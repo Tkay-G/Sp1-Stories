@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name":"Q1.SSD",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
+=======
+  "name": "${PROJECT_NAME}",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+>>>>>>> ff9504f93f77589b1d695e310fe7c52c3fc499d8
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
