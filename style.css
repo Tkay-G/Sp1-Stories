@@ -9,6 +9,11 @@ body {
 
 p {
     font-size: 28px;
+    text-align: justify;
+}
+
+button{
+    font-size: large;
 }
 
 .stories {

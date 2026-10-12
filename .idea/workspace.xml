@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7c7290b2-6ed1-4999-8f30-f6e86427e7f0" name="Changes" comment="deploy fix ( fix html files)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/story1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories/story1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/story2.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories/story2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/story3.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories/story3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/story4.html" beforeDir="false" afterPath="$PROJECT_DIR$/stories/story4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +91,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788900997082</updated>
-      <workItem from="1788900998166" duration="12901000" />
+      <workItem from="1788900998166" duration="13053000" />
+      <workItem from="1789025674477" duration="1844000" />
+      <workItem from="1791734097467" duration="9369000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;- finished stories&#10;-functional styling&#10;-no scripts">
       <option name="closed" value="true" />
@@ -119,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788994530530</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="deploy fix ( fix html files)">
+      <option name="closed" value="true" />
+      <created>1788994908412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788994908412</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
