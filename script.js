@@ -1,5 +1,5 @@
 function backToStories(){
- window.location.href= '/Q1.SSD/index.html';
+ window.location.href= 'index.html';
 }
 
 function goToStory1(){
